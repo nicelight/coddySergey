@@ -1,5 +1,5 @@
 # имя бота CoddySergey
-
+#тут был нурулло
 # никнейм бота CoddySergeyBot
 # ссылка на бота https://t.me/CoddySergeyBot
 
