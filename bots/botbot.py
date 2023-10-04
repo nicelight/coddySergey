@@ -1,5 +1,8 @@
 # имя бота CoddySergey
 # тут был хабиб
+
+# тут был Мустафо
+
 # никнейм бота CoddySergeyBot
 # ссылка на бота https://t.me/CoddySergeyBot
 
